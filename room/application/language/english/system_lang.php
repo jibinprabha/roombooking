@@ -1,0 +1,31 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+$lang['title'] = 'Title';
+$lang['name_of_hotel']=" Name of Hotel";
+$lang['email']="Email";
+$lang['password']="Password";
+$lang['confirm_password']="Confirm Password";
+$lang['phone']="Phone";
+$lang['address_line_1']="Address Line 1";
+$lang['address_line_2']="Address Line 2";
+$lang['pincode']="Pincode";
+$lang['district']="District";
+$lang['country']="Country";
+$lang['state']="State";
+$lang['currency']="Currency";
+$lang['create_user_validation_hname_label']= 'Hotel Name';
+$lang['create_user_submit_btn']="Submit";
+$lang['title_department']="Department";
+$lang['department_name']="Name of Department";
+$lang['contact_person']="Name of Contact Person";
+$lang['create_dep_submit_btn']="Add Department";
+$lang['create_dept_name']="Department Name is Required";
+$lang['phone_required']="Phone number is Required";
+$lang['contact_person_required']="Contact person is Required";
+$lang['name_of_service']="Service Name";
+$lang['contact_name']="Contact Person Name";
+$lang['contact_no']="Contact Person Ph No.";
+$lang['rate']="Rate";
+$lang['delivery_time']="Delivery Time";
+$lang['create_servce_validation_sname_label']="Service Name";
+
+
